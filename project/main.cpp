@@ -1,8 +1,8 @@
-#include "TestFunction.h"
+//#include "TestFunction.h"
 
 int main() {
 
-	TestFunction();
+	//TestFunction();
 
 	return 0;
 }
